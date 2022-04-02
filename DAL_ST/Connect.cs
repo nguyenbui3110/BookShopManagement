@@ -13,7 +13,8 @@ namespace BookShopManagement
         string constr; 
         public Connect()
         {
-            string setting = ConfigurationManager.ConnectionStrings[2].ConnectionString;
+            string setting = ConfigurationManager.ConnectionStrings["BookShopManagement.Properties.Settings.PBL3ConnectionString"].ConnectionString;
+            
 
             System.Windows.Forms.MessageBox.Show(setting);
             

@@ -23,7 +23,7 @@ namespace BookShopManagement.DAL
             {
                 if (_Instance == null)
                 {
-                    string setting = ConfigurationManager.ConnectionStrings[2].ConnectionString;
+                    string setting = ConfigurationManager.ConnectionStrings["BookShopManagement.Properties.Settings.PBL3ConnectionString"].ConnectionString;
                     _Instance = new DBHelper(setting);
                 }
                 return _Instance;

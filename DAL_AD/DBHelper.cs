@@ -28,7 +28,7 @@ namespace PBL3_BookShopManagement.DAL
         private DBHelper()
         {
 
-            cnnstring = ConfigurationManager.ConnectionStrings[2].ConnectionString;
+            cnnstring = ConfigurationManager.ConnectionStrings["BookShopManagement.Properties.Settings.PBL3ConnectionString"].ConnectionString;
         }
         public bool ExecuteDB(string query)
         {
