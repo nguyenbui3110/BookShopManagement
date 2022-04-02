@@ -1,0 +1,307 @@
+﻿++Solution 'BookShopManagement' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BookShopManagement.sln
+++BookShopManagement
+i:{00000000-0000-0000-0000-000000000000}:BookShopManagement
+++Properties
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\properties\
+++AssemblyInfo.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\properties\assemblyinfo.cs
+++Resources.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\properties\resources.resx
+++Settings.settings
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\properties\settings.settings
+++References
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++BLL
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll\
+++BLL_AD
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_ad\
+++BLL_ST
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_st\
+++DAL
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal\
+++DAL_AD
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_ad\
+++DAL_ST
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_st\
+++DTO
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\
+++DTO_AD
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\
+++DTO_ST
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_st\
+++GUI
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\
+++Forms
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\
+++Form_Dashboard.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_dashboard.cs
+++Form_DetailHoaDon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_detailhoadon.cs
+++Form_EditHoaDon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_edithoadon.cs
+++UserControls
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\
+++GUI_AD
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\
+++CustomControls
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\customcontrols\
+++DragControl.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\customcontrols\dragcontrol.cs
+++Form_BookDetail.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_bookdetail.cs
+++Form_Dashboard_Admin.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_dashboard_admin.cs
+++Form_InvoiceDetail.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_invoicedetail.cs
+++UC_BookManagement.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_bookmanagement.cs
+++UC_Discount.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_discount.cs
+++UC_ManageExpense.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_manageexpense.cs
+++UC_ManageKho.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_managekho.cs
+++UC_ManageRevenue.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_managerevenue.cs
+++UC_ManageUser.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_manageuser.cs
+++GUI_ST
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\
+++ChangePass.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\changepass.cs
+++ChangePass.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\changepass.designer.cs
+++ChangePass.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\changepass.resx
+++Form_DB_ST.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\form_db_st.cs
+++Form2.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\form2.cs
+++App.config
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\app.config
+++PBL3.mdf
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\pbl3.mdf
+++PBL3DataSet.xsd
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\pbl3dataset.xsd
+++Program.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\program.cs
+++Resources.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\properties\settings.designer.cs
+++Bunifu_UI_v1.52
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++BunifuDataViz 1.0.1
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++Microsoft.CSharp
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++Microsoft.VisualBasic
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Configuration
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Core
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Data
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Data.DataSetExtensions
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Deployment
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Drawing
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Management
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Net.Http
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Windows.Forms
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Xml
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++System.Xml.Linq
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:
+++BLL_BookShop.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll\bll_bookshop.cs
+++BLL_Sach.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_ad\bll_sach.cs
+++BLL_SachKhuyenMai.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_ad\bll_sachkhuyenmai.cs
+++BLL_Staff.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_ad\bll_staff.cs
+++BLL_ThongKe.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_ad\bll_thongke.cs
+++CSDL_OOP.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_st\csdl_oop.cs
+++CSDL_USER.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\bll_st\csdl_user.cs
+++DAL_BookShop.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal\dal_bookshop.cs
+++DBHelper.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal\dbhelper.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_ad\dbhelper.cs
+++DAL_Sach.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_ad\dal_sach.cs
+++DAL_SachKhuyenMai.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_ad\dal_sachkhuyenmai.cs
+++DAL_Staff.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_ad\dal_staff.cs
+++DAL_ThongKe.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_ad\dal_thongke.cs
+++Connect.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_st\connect.cs
+++Login_DAL.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dal_st\login_dal.cs
+++ChiTietHD.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\chitiethd.cs
+++HoaDon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\hoadon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\hoadon.cs
+++HoaDonView.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\hoadonview.cs
+++Kho.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\kho.cs
+++Sach.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\sach.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\sach.cs
+++SachKhuyenMai.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\sachkhuyenmai.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\sachkhuyenmai.cs
+++TTSach.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto\ttsach.cs
+++Account.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\account.cs
+++CBBItem.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\cbbitem.cs
+++ChiTietHoaDon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\chitiethoadon.cs
+++Position.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\position.cs
+++SachKMView.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\sachkmview.cs
+++SachView.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\sachview.cs
+++Staff.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\staff.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_st\staff.cs
+++StaffView.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\staffview.cs
+++ThongTinXuatBan.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_ad\thongtinxuatban.cs
+++Bookstore.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_st\bookstore.cs
+++CBBItems.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_st\cbbitems.cs
+++Diary.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\dto_st\diary.cs
+++Form_Dashboard.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_dashboard.designer.cs
+++Form_Dashboard.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_dashboard.resx
+++Form_DetailHoaDon.designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_detailhoadon.designer.cs
+++Form_DetailHoaDon.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_detailhoadon.resx
+++Form_EditHoaDon.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_edithoadon.designer.cs
+++Form_EditHoaDon.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\forms\form_edithoadon.resx
+++UC_DoanhThu.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_doanhthu.cs
+++UC_LapHoaDon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_laphoadon.cs
+++UC_QuanliHoaDon.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_quanlihoadon.cs
+++Form_BookDetail.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_bookdetail.designer.cs
+++Form_BookDetail.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_bookdetail.resx
+++Form_Dashboard_Admin.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_dashboard_admin.designer.cs
+++Form_Dashboard_Admin.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_dashboard_admin.resx
+++Form_InvoiceDetail.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_invoicedetail.designer.cs
+++Form_InvoiceDetail.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\forms\form_invoicedetail.resx
+++UC_BookManagement.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_bookmanagement.designer.cs
+++UC_BookManagement.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_bookmanagement.resx
+++UC_Discount.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_discount.designer.cs
+++UC_Discount.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_discount.resx
+++UC_ManageExpense.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_manageexpense.designer.cs
+++UC_ManageExpense.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_manageexpense.resx
+++UC_ManageKho.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_managekho.designer.cs
+++UC_ManageKho.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_managekho.resx
+++UC_ManageRevenue.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_managerevenue.designer.cs
+++UC_ManageRevenue.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_managerevenue.resx
+++UC_ManageUser.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_manageuser.designer.cs
+++UC_ManageUser.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_ad\usercontrols\uc_manageuser.resx
+++Form_DB_ST.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\form_db_st.designer.cs
+++Form_DB_ST.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\form_db_st.resx
+++Form2.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\form2.designer.cs
+++Form2.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\forms\form2.resx
+++UC_Diary.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_diary.cs
+++UC_Home.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_home.cs
+++UC_ImporBook.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_imporbook.cs
+++UC_ManageBook.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_managebook.cs
+++PBL3_log.ldf
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\pbl3_log.ldf
+++PBL3DataSet.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\pbl3dataset.designer.cs
+++PBL3DataSet.xsc
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\pbl3dataset.xsc
+++PBL3DataSet.xss
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\pbl3dataset.xss
+++UC_DoanhThu.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_doanhthu.designer.cs
+++UC_DoanhThu.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_doanhthu.resx
+++UC_LapHoaDon.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_laphoadon.designer.cs
+++UC_LapHoaDon.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_laphoadon.resx
+++UC_QuanliHoaDon.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_quanlihoadon.designer.cs
+++UC_QuanliHoaDon.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui\usercontrols\uc_quanlihoadon.resx
+++UC_Diary.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_diary.designer.cs
+++UC_Diary.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_diary.resx
+++UC_Home.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_home.designer.cs
+++UC_Home.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_home.resx
+++UC_ImporBook.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_imporbook.designer.cs
+++UC_ImporBook.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_imporbook.resx
+++UC_ManageBook.Designer.cs
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_managebook.designer.cs
+++UC_ManageBook.resx
+i:{d8f85cc1-9472-4794-8449-5d545c316a4e}:f:\onedrive - the university of technology\desktop\pbl3_congnghephanmem\pbl3_congnghephanmem\bookshopmanagement\gui_st\usercontrols\uc_managebook.resx
